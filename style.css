@@ -1,3 +1,28 @@
+p {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 14px;
+    line-height: 1.6;
+    letter-spacing: 1px;
+    color: rgb(73, 10, 10);
+}
+a {
+}
+a :hover {
+    color: brown;
+}
+body {
+    width: 90%;
+}
+blockquote {
+    width: 50%;
+}
+q {
+    font-size: 160%;
+    background-color: rgb(211, 210, 210);
+}
+blockquote {
+    background-color: rgb(211, 210, 210);
+}
 .good {
     color: green;
 }
