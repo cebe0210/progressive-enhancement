@@ -53,26 +53,28 @@ blockquote {
 }
 tr:nth-child(even) {
     background-color: gray;
-}/*
+}
 #bien {
     background-image: url("img/bien.png");
     padding: 35px 10px 15px;
-    background-position: 22%;
-    width: 20px;
-    height: 20px;
+    background-position: 30%;
+    background-repeat: no-repeat;
+    
 
 }
 #mal { 
     background-image: url("img/mal.png");
     padding: 35px 10px 15px;
-    background-position: 22%;
-    width: 20px;
-    height: 20px;
+    background-position: 30%;
+    background-repeat: no-repeat;
 }
 #chat {
     background-image: url("img/chat.png");
     padding: 35px 10px 15px;
-    background-position: 22%;
-    width: 20px;
-    height: 20px;
-}*/
+    background-position: 30%;
+    background-repeat: no-repeat;
+}
+li {
+    padding: 50px;
+    margin: 50px;
+}
