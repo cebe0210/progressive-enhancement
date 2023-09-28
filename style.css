@@ -14,11 +14,12 @@ body {
     width: 90%;
     /*background-color: beige;*/
     /*background: -webkit-linear-gradient(90deg, rgb(219, 219, 219), rgb(122, 170, 219));
-    background: linear-gradient(90deg, rgb(219, 219, 219), rgb(122, 170, 219));
+    background: linear-gradient(90deg, rgb(219, 219, 219), rgb(122, 170, 219));*/
     background-image: url("img/background.jpg");
     background-size: cover;
-    background-repeat: no-repeat;*/
+    background-repeat: no-repeat;
     padding: 50px 30% 50px 30%;
+    margin: auto;
     
 
 }
@@ -74,7 +75,10 @@ tr:nth-child(even) {
     background-position: 30%;
     background-repeat: no-repeat;
 }
-li {
+#other {
+    padding: 35px 10px 15px;
+}
+/*li {
     padding: 50px;
     margin: 50px;
-}
+}*/
